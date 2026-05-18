@@ -9,7 +9,6 @@ import 'services/task_service.dart';
 void main() {
   runApp(const TaskBrewApp());
 }
-
 class TaskBrewApp
     extends StatelessWidget {
 
